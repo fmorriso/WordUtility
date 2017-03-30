@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("WordFindReplaceHeader")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("WordRemoveHeadersFooters")]
+[assembly: AssemblyDescription("Remove all headers and footers from a Word document")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("WordFindReplaceHeader")]
+[assembly: AssemblyCompany("Fred Morrison")]
+[assembly: AssemblyProduct("WordRemoveHeadersFooters")]
 [assembly: AssemblyCopyright("Copyright ©  2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
