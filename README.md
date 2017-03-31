@@ -1,7 +1,11 @@
 # WordUtility
 Word Utilities
 ## Purpose
-To provide missing functionality that should have been in Microsoft Word but isn't.
+My original intention was to provide missing functionality (well, actually just **one** piece of missing functionality) that should have been in Microsoft Word 2016 but isn't: the ability to find and replace text in __*all*__ headers/footers of a Microsoft Word document.
+
+In end, I only managed to find a way to remove all __existing__ headers/footers from a Microsoft Word document.
+
+Since my end goal was to replace multiple headers with a single header, the ability to clean out all existing headers and footers and start over was a reasonable compromise.
 ## What This Is
 A C# console application that removes all existing headers and footers from a Microsoft Word document.
 ## What This Is Not
