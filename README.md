@@ -25,4 +25,4 @@ Since I already had some superficial knowledge of how to use the Open XML SDK 2.
 
 While I did not locate a find/replace technique, I did find a way to remove all existing headers and footers.
 
-That is what I wound up coding in C# in the code you will find in the GitHub repository.
+That is what I wound up coding in C# in the code you will find in this GitHub repository.
