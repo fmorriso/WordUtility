@@ -19,7 +19,7 @@ I was disappointed to find that the interactive Find/Replace only works on the m
 
 After researching on the internet, the only solutions I found involved complex (even for me, who is deeply familiar with them) VBA macros, which I believe (in my not so humble opinion) amounts to a "dinosaur solution" from back in the 1990's.
 
-I did not want to have to enable VBA (often turned off by design by document authors to protect against  viruses) in every document in order to use those VBA remedies.
+I did not want to have to enable VBA (often turned off by design by document authors to protect against viruses) in every document in order to use those VBA remedies.
 
 Since I already had some superficial knowledge of how to use the Open XML SDK 2.5 to read Microsoft Excel workbooks, I decided to look for something that might find/replace text in the headers and footers of a Microsoft Word document.
 
